@@ -1,0 +1,15 @@
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\bin\Debug\net8.0\Sémaforos.exe
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\bin\Debug\net8.0\Sémaforos.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\bin\Debug\net8.0\Sémaforos.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\bin\Debug\net8.0\Sémaforos.dll
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\bin\Debug\net8.0\Sémaforos.pdb
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.sourcelink.json
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.dll
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\refint\Sémaforos.dll
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.pdb
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\Sémaforos.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Programação Assincrona\StreamsAssincronos\obj\Debug\net8.0\ref\Sémaforos.dll
